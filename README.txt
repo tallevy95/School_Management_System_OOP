@@ -33,8 +33,9 @@ Installation
   To install and compile the School Management System, follow these steps:
   
   1. Clone the repository from GitHub:  git clone https://github.com/tallevy95/School_Management_System_OOP
-  2. Navigate to the project directory: cd School-Management-System
-  3. Compile the C++ files: g++ main.cpp pupil.cpp worker.cpp teacher.cpp utorT.cpp layer.cpp school.cpp -o school_management_system
+  2. Extract all the files to the same directory
+  3. Navigate to the project directory: cd School-Management-System
+  4. Compile the C++ files: g++ main.cpp pupil.cpp worker.cpp teacher.cpp utorT.cpp layer.cpp school.cpp -o school_management_system
 
 Usage
   To run the School Management System, use the following command: ./school_management_system
