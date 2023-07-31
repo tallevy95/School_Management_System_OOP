@@ -16,10 +16,11 @@ The School Management System is a project written in C++ aimed at providing a co
 Features
 The School Management System offers the following features:
 
-Student Management: Add, remove, and update student details, including grades and class information.
-Teacher Management: Add, remove, and update teacher details, including the subjects they teach and their salary.
-Staff Management: Add, remove, and update staff details, including their roles and salary.
-Class Management: Add, remove, and update class details, including the class name, number, list of enrolled students, and assigned teacher.
+1. Student Management: Add, remove, and update student details, including grades and class information.
+2. Teacher Management: Add, remove, and update teacher details, including the subjects they teach and their salary.
+3. Staff Management: Add, remove, and update staff details, including their roles and salary.
+4. Class Management: Add, remove, and update class details, including the class name, number, list of enrolled students, and assigned teacher.
+
 System Requirements
 Before running the School Management System, ensure that you have the following requirements:
 
